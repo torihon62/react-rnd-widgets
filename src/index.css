@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  min-width: 320px;
+  height: 100vh;
+}
+
+#root {
+  width: 100%;
+}
