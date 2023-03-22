@@ -1,3 +1,3 @@
 # Draggable and Resizable
 
-[rnd.gif](rnd.gif)
+![rnd.gif](rnd.gif)
